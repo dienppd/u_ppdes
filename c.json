@@ -1,4 +1,25 @@
 {
   "v": 2,
-  "items": []
+  "items": [
+    {
+      "maWeb": 26110601,
+      "android": "1.0.110+152",
+      "ios": null,
+      "url": "https://github.com/dienppd/u_ppdes/releases/download/r26110601/p.bin",
+      "sha256": "4d5edd2f149520eb9de8dab0cfc8512789738a300cf21c03d00d8f9a70494caf",
+      "sig": "A3vN0VNAIxyqeMTqSjioq6EBeySPwX5YzORmEEYdOCglYuI4nReW6z2JB55lRQQKeUlLvbAe23LsG7u/gqZwng3u1MsjPrvsPIRn9319ZIw7N5CjlqI8rDBfuOhdEzQkNblGOIb6UuJFh8ISGjdFOXklqMbx9uTh04BtjIAc3Qe7KZ6m/SY+iWdhhHtExjNzWGz2hc8dITVmQu+lhEWfJd+Cg5Je+JXuK8vh3xqGH7E4ma7i9fUZTfb47izNPIie+CUDETRXofeZu3SszSYaoLQynOAYHm+DwlZxX6O3/l9u980/L7hNFysyS0epHIz/UKToRo6gXxCLS8tPB16fiw==",
+      "batBuoc": false,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    },
+    {
+      "maWeb": 26110601,
+      "android": null,
+      "ios": "1.0.110+152",
+      "url": "https://github.com/dienppd/u_ppdes/releases/download/r26110601/p.bin",
+      "sha256": "4d5edd2f149520eb9de8dab0cfc8512789738a300cf21c03d00d8f9a70494caf",
+      "sig": "A3vN0VNAIxyqeMTqSjioq6EBeySPwX5YzORmEEYdOCglYuI4nReW6z2JB55lRQQKeUlLvbAe23LsG7u/gqZwng3u1MsjPrvsPIRn9319ZIw7N5CjlqI8rDBfuOhdEzQkNblGOIb6UuJFh8ISGjdFOXklqMbx9uTh04BtjIAc3Qe7KZ6m/SY+iWdhhHtExjNzWGz2hc8dITVmQu+lhEWfJd+Cg5Je+JXuK8vh3xqGH7E4ma7i9fUZTfb47izNPIie+CUDETRXofeZu3SszSYaoLQynOAYHm+DwlZxX6O3/l9u980/L7hNFysyS0epHIz/UKToRo6gXxCLS8tPB16fiw==",
+      "batBuoc": false,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    }
+  ]
 }
